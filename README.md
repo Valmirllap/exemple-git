@@ -1,2 +1,2 @@
 # exemple-git
-Test fetch and merge
+Test fetche
